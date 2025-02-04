@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src="https://github.com/JAYARAM0707/JAYARAM0707/blob/main/GithubBanner.gif" alt="GitHub Banner">
+</p>
 
 <h1 align="center">Hi 👋, I'm Jayaram M</h1>
 <h3 align="center">A passionate developer with expertise in Python, JavaScript and SQL. Enthusiastic about building web applications and exploring new technologies.</h3>
