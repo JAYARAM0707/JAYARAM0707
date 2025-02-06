@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm Jayaram M</h1>
 <p align="center">
     <img src="https://github.com/JAYARAM0707/JAYARAM0707/blob/main/Github%20Banner1.gif" alt="GitHub Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jayaram M</h1>
 <h3 align="center">A passionate developer with expertise in Python, JavaScript and SQL. Enthusiastic about building web applications and exploring new technologies.</h3>
 
 <img align="right" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg" alt="coding">
