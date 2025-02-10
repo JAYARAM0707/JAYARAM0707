@@ -38,6 +38,10 @@
     <h3>Front End Languages : </h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
@@ -52,6 +56,19 @@
     <h3>Framework : </h3>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a>
+</p>
+<p>
+    <h3>Tools : </h3>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40"/> </a> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="40" height="40"/> </a> 
+    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/> </a>
+     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaram0707&show_icons=true&locale=en&layout=compact" alt="jayaram0707" /></p>
